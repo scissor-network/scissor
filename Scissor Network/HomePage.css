@@ -1,0 +1,32 @@
+body{
+    text-align: center
+    
+}
+
+body{
+    font-family: serif;
+    background-color: thistle;
+    border: 2px solid Gray;
+    border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024;
+    min-width: 256px;
+    padding-top: 8px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center
+}
+html{
+    background: radial-gradient(circle, SkyBlue, SkyBlue 50%, LightCyan 50%, Skyblue);
+    background-size: 8px 8px;
+    
+}
+.button   a:hover {
+  background-color: #777;
+}
+
+
+
+
